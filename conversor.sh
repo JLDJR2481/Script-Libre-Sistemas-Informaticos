@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Introduce aquí tu número decimal para convertirlo en un binario y en octal: " numero
+read -p "Introduce aquí tu número decimal para convertirlo en binario, octal y hexadecimal: " numero
 validacion=^[0-9]+$
 
 
